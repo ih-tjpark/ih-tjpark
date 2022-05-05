@@ -1,3 +1,6 @@
+<!-- https://github.com/kyechan99/capsule-render/blob/master/README.md#custom-color-list -->
+## <a id="soft">
+![soft](https://capsule-render.vercel.app/api?type=soft&color=auto&text=Wellcome%20to%20TJ%20Park%20GitHub%20profile&fontSize=40&animation=twinkling)
 ### Hi there 👋
 
 <!--
