@@ -5,7 +5,7 @@
 Hi i'm Taejun Park. 
 <hr>
 
-<a target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=blue"/></a>
+<a target="_blank"><img src="https://img.shields.io/badge/Android-3776AB?style=flat-square&logo=Python&logoColor=blue"/></a>
 
 
 <!--
