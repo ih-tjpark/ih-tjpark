@@ -1,8 +1,11 @@
 <!-- header: https://github.com/kyechan99/capsule-render/blob/master/README.md#custom-color-list -->
-## <a id="soft">
+## <a id="soft" align="center">
 ![soft](https://capsule-render.vercel.app/api?type=soft&color=auto&text=Wellcome%20to%20TJ%20Park%20GitHub&fontSize=40&animation=twinkling)
 
-Hi i'm Taejun Park. 
+<p align="center">
+Hi there. i'm studing Data Engineering and Data Analysis.
+i'm interesting Data ,NLP
+</p>
 <hr>
 
 <a link="" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
