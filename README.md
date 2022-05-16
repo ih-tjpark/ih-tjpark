@@ -8,7 +8,7 @@ Hi there.
 </p>
 <hr>
 
-<!-- <p align="center">
+<p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Flask-E6E6E6?style=flat-square&logo=Flask&logoColor=black"/>
   <br>
@@ -22,7 +22,7 @@ Hi there.
   <br>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/>
-</p> -->
+</p>
 
 <!--
 **ih-tjpark/ih-tjpark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
