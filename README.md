@@ -23,7 +23,9 @@ Hi there. i'm Taejun Park
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/>
 </p>
-
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ih-tjpark)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ih-tjpark&count_private=true&show_icons=true&theme=cobalt)
 <!--
 **ih-tjpark/ih-tjpark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
