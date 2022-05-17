@@ -3,7 +3,7 @@
 ![soft](https://capsule-render.vercel.app/api?type=soft&color=auto&text=Wellcome%20to%20TJ%20Park%20GitHub&fontSize=40&animation=twinkling)
 
 <p align="center">
-Hi there. 
+Hi there. i'm Taejun Park
   
 </p>
 <hr>
