@@ -18,7 +18,7 @@ Hi there. i'm Taejun Park
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
   <br>
   <img src="https://img.shields.io/badge/Apache Hadoop-66CCFF?style=flat-square&logo=Apache%20Hadoop&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Apache Spark-E25A1C?style=flat-square&logo=Apache%20Spark&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Apache Spark-E25A1C?style=flat-square&logo=Apache%20Spark&logoColor=white"/>
   <br>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/>
