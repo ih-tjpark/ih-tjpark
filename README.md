@@ -3,8 +3,9 @@
 ![soft](https://capsule-render.vercel.app/api?type=soft&color=auto&text=Wellcome%20to%20TJ%20Park%20GitHub&fontSize=40&animation=twinkling)
 
 <p align="center">
-Hi there. i'm Taejun Park
-  
+  ✋🏼Hi there. i'm dev junior using Python, Java. <br>
+  I'm interested in <b>data engineering</b> and <b>data analysis</b>. <br>
+  I'm especially interested in <b>NLP</b> 
 </p>
 <hr>
 
@@ -23,20 +24,20 @@ Hi there. i'm Taejun Park
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/>
 </p>
+
+
+<h3 align="center"> 📋 My Git Stats </h3>
+
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ih-tjpark&anuraghazra/github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ih-tjpark&count_private=true&show_icons=true&theme=cobalt)
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ih-tjpark)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ih-tjpark&count_private=true&show_icons=true&theme=cobalt)
-<!--
-**ih-tjpark/ih-tjpark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<hr>
+  
+<h3 align="center"> 💟 Experience  </h3>
+<p align="center">
+🏫 Inha University - Software Convergence Engineering (2018-03-02 ~ 2022-02-16)
+🏢 Public Data Internship - Pulbic data Qality (2021-08-02 ~ 2021-12-17)
+💻 Encore(Playdata) - Big data engineer bootcamp (2021-11-09 ~ 2022-04-29 )
+</p>  
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
