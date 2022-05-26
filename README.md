@@ -9,7 +9,8 @@
 </p>
   
 <hr>
-
+  
+<h3 align="center"> 🛠️ My Tech Stack </h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Flask-E6E6E6?style=flat-square&logo=Flask&logoColor=black"/>
@@ -29,6 +30,7 @@
 <hr>
 
 <h3 align="center"> 📋 My Git Stats </h3>
+  
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ih-tjpark&anuraghazra/github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ih-tjpark&count_private=true&show_icons=true&theme=cobalt)
   
