@@ -36,8 +36,8 @@
   
 <h3 align="center"> 💟 Experience  </h3>
 <p align="center">
-🏫 Inha University - Software Convergence Engineering (2018-03-02 ~ 2022-02-16)
-🏢 Public Data Internship - Pulbic data Qality (2021-08-02 ~ 2021-12-17)
+🏫 Inha University - Software Convergence Engineering (2018-03-02 ~ 2022-02-16) <br>
+🏢 Public Data Internship - Pulbic data Qality (2021-08-02 ~ 2021-12-17) <br>
 💻 Encore(Playdata) - Big data engineer bootcamp (2021-11-09 ~ 2022-04-29 )
 </p>  
 
