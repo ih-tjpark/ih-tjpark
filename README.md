@@ -3,7 +3,7 @@
 ![soft](https://capsule-render.vercel.app/api?type=soft&color=auto&text=Wellcome%20to%20TJ%20Park%20GitHub&fontSize=40&animation=twinkling)
 
 <p align="center">
-  ✋🏼Hi there. i'm dev junior using Python, Java. <br>
+  ✋🏼Hi there. i'm junior developer using Python, Java. <br>
   I'm interested in <b>data engineering</b> and <b>data analysis</b>. <br>
   I'm especially interested in <b>NLP</b> 
 </p>
