@@ -38,8 +38,8 @@
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ih-tjpark&count_private=true&show_icons=true&theme=cobalt)
   
 <hr>
-/*
-<h3 align="center"> 🚶🏻 Experience  </h3>
+<!--
+<h3 align="center"> /*🚶🏻 Experience*/  </h3>
 <p align="center">
 🏫 Inha University - Software Convergence Engineering (2018-03-02 ~ 2022-02-16) <br>
 🏢 Public Data Internship - Pulbic Data Quality / Open (2021-08-02 ~ 2021-12-17) <br>
@@ -47,5 +47,5 @@
 🏢 Hyundai Card - Data Extraction / Analysis (2022-08-16 ~ 2023-02-01) <br>
 💻 Programmers DevCourse - Data Engineering Bootcamp (2023-04-12 ~ 2023-09-05)
 </p>  
-*/
+-->
 
